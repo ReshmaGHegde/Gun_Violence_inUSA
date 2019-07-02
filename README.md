@@ -18,7 +18,7 @@ Technology Stack:
 - Middleware: Flask
 - DataBase: SQLite
 - Programming Languages: Python, Javascript
-- Vizualization: Leaflet & D3
+- Visualization: Leaflet & D3
 
 DuyN || ReshmaH || SnehaK
 
