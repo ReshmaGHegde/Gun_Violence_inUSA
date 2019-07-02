@@ -38,7 +38,7 @@ function buildCharts(newSample) {
     var something = [{ x: xdata, y: ydata, type: 'bar', marker: {color: 'rgb(146,143,145)',opacity: 0.8}}];
 
     var layout = {
-      title:'Count of people killed in each State(By Month) ',
+      title:'Number of Deaths(By Month) ',
       yaxis: {title: 'Casualties'},
       xaxis: {title: 'Months(Year:2017)'},
       barmode:'relative'
