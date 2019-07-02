@@ -19,5 +19,22 @@ Technology Stack:
 - DataBase: SQLite
 - Programming Languages: Python, Javascript
 - Vizualization: Leaflet & D3
-
+---------------------------------------------
 DuyN || ReshmaH || SnehaK
+---------------------------------------------
+Please run below to view the output:
+cd to ./GV_Project_Final
+Terminal 1:
+source activate <conda env>
+python -m http.server
+open: localhost:8000
+This opens Main Page.
+
+Terminal 2:
+cd to ./GV_Project_Final
+source activate <conda env>
+python app.py
+open localhost:5000
+This opens Leaflet Stack Map.
+----------------------------------------------
+
